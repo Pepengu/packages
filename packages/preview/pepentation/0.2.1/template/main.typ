@@ -11,7 +11,7 @@
     enable: true,
     title: "Title",
     institute: "USWAG",
-    authors: ("Author1", "Author2"),
+    authors: ("Author1", "Author2", "Author3"),
   ),
   table-of-contents: "detailed",
   header: true,
